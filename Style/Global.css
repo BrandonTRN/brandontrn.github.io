@@ -1,0 +1,23 @@
+.centrar{
+    text-align: center;
+    color: linen;
+}
+body{
+    background-color: rgb(209, 152, 46);
+}
+
+
+footer {
+    display: block;
+    text-align: center;
+    min-height: 70px;
+  background-color: #be9e46;
+  background-image: -moz-linear-gradient(top, #191919, #506996);
+  
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#191919', endColorStr='#000000');
+  border-top: 1px solid rgba(50, 50, 50, 0.3);
+  width: 100%;
+  height: 5%;
+  position: fixed;
+  bottom: 0;         
+  }
