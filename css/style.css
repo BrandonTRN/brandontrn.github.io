@@ -1,0 +1,33 @@
+body{
+
+   background-color:  lightgoldenrodyellow;
+}
+
+marquee{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: x-large;
+font-weight: bolder;
+background-attachment: fixed;
+background-color:antiquewhite;
+}
+
+dd{
+    font-family: fantasy;
+    font-size: medium;
+    background-attachment: fixed;
+    background-color:antiquewhite;
+
+}
+
+h3{
+    font-family: fantasy;
+    font-size: x-large;
+}
+
+  footer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: smaller;
+    text-align: center;
+    background-attachment: fixed;
+    background-color:antiquewhite;
+    }
